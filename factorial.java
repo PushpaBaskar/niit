@@ -16,7 +16,7 @@ public class facts {
 		}
 		System.out.println("The factorial is"+fact);
 		fact=1;
-		System.out.println("do to want to continue y or n");
+		System.out.println("do to want to continue yes or n0");
 		String b=s.next();
 	if(b.equals(ansy))
 	{
